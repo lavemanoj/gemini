@@ -1,0 +1,46 @@
+.leo{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 30px;
+    align-items: center;
+    background-color: #f0f0f0;
+    margin: 20px;
+    padding: 310px;
+    font-family: 'Arial', sans-serif;
+    font-size: 35px;
+    color: #333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s;
+    bottom:40%;
+    background-image: url(./gemi.webp);
+    background-size: cover
+    
+}
+.button{
+    background-color: black; 
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 2px px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.but{
+    border: none;
+    color: white;       
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px;
+    border: 2px black solid;
+    cursor: pointer;
+    border-radius: 12px;
+    transition: background-color 0.3s;
+    color: black;
+}
